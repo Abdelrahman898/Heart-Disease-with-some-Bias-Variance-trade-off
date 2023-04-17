@@ -27,5 +27,6 @@
 ![alt tag](https://github.com/Abdelrahman898/Heart-Disease-with-some-Bias-Variance-trade-off/blob/main/download.png)
 
 
-[Kaggle](https://www.kaggle.com/code/abdelrahmanelnabawy/heart-disease-with-some-bias-variance-trade-off)
+You can see the project in [Kaggle](https://www.kaggle.com/code/abdelrahmanelnabawy/heart-disease-with-some-bias-variance-trade-off)
+
 
